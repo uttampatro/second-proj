@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/second-proj/static/js/main.37f46835.chunk.js",
+    "main.js.map": "/second-proj/static/js/main.37f46835.chunk.js.map",
+    "runtime-main.js": "/second-proj/static/js/runtime-main.acdb3f42.js",
+    "runtime-main.js.map": "/second-proj/static/js/runtime-main.acdb3f42.js.map",
+    "static/js/2.59943a25.chunk.js": "/second-proj/static/js/2.59943a25.chunk.js",
+    "static/js/2.59943a25.chunk.js.map": "/second-proj/static/js/2.59943a25.chunk.js.map",
+    "static/js/3.442fa92a.chunk.js": "/second-proj/static/js/3.442fa92a.chunk.js",
+    "static/js/3.442fa92a.chunk.js.map": "/second-proj/static/js/3.442fa92a.chunk.js.map",
+    "index.html": "/second-proj/index.html",
+    "static/js/2.59943a25.chunk.js.LICENSE.txt": "/second-proj/static/js/2.59943a25.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/second-proj/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/second-proj/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/second-proj/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/second-proj/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/second-proj/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/second-proj/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/second-proj/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/second-proj/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/second-proj/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/second-proj/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/second-proj/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/second-proj/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acdb3f42.js",
+    "static/js/2.59943a25.chunk.js",
+    "static/js/main.37f46835.chunk.js"
+  ]
+}
